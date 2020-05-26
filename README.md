@@ -1,1 +1,1 @@
-# Giphy_Party
+# Giphy Party
